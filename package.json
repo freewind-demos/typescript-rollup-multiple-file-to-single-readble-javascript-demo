@@ -1,11 +1,11 @@
 {
-  "scripts": {
-    "demo": "rollup -c"
-  },
-  "devDependencies": {
-    "@types/node": "13.7.7",
-    "rollup": "2.59.0",
-    "rollup-plugin-typescript2": "0.30.0",
-    "typescript": "3.8.3"
-  }
+    "scripts": {
+        "start": "rollup -c"
+    },
+    "devDependencies": {
+        "@types/node": "13.7.7",
+        "rollup": "2.59.0",
+        "rollup-plugin-typescript2": "0.30.0",
+        "typescript": "3.8.3"
+    }
 }
